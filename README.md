@@ -1,11 +1,7 @@
-![Project](https://img.shields.io/badge/Project-BEAM-purple)
-![Purpose](https://img.shields.io/badge/Purpose-Stress%20Testing-orange)
-![Platform](https://img.shields.io/badge/Platform-Discord-blue)
-![Status](https://img.shields.io/badge/Status-Testing-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Agents](https://img.shields.io/badge/System-Agent--Based-red)
-![Proxies](https://img.shields.io/badge/Network-Proxy%20Support-lightgrey)
-
+<p align="center">
+  <strong>BEAM 🚀</strong><br>
+  Agent‑Based Discord Webhook Stress
+</p>
 
 
 
