@@ -59,7 +59,6 @@ Targets where you have explicit permission
 Misuse may result in Discord account bans, IP bans, or legal consequences.
 
 <p align="center">
-  <img src="assets/hack-hacker.gif" alt="Hack Animation" width="300" />
+  <img src="DIRECT_GIF_LINK.gif" alt="Hack Animation" width="300" />
 </p>
-
 
