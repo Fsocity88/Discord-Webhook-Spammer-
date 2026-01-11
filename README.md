@@ -33,6 +33,16 @@ Supports custom message content and embeds
 🛠️ Configurable Settings
 Control agent count, delay, and test duration
 
+![Project](https://img.shields.io/badge/Project-BEAM-purple)
+![Purpose](https://img.shields.io/badge/Purpose-Stress%20Testing-orange)
+![Platform](https://img.shields.io/badge/Platform-Discord-blue)
+![Status](https://img.shields.io/badge/Status-Testing-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Agents](https://img.shields.io/badge/System-Agent--Based-red)
+![Proxies](https://img.shields.io/badge/Network-Proxy%20Support-lightgrey)
+
+
+
 🧪 Intended Use
 
 ✅ Load & stress testing
