@@ -57,3 +57,11 @@ Systems you control
 Targets where you have explicit permission
 
 Misuse may result in Discord account bans, IP bans, or legal consequences.
+
+██████╗ ███████╗ █████╗ ███╗   ███╗
+██╔══██╗██╔════╝██╔══██╗████╗ ████║
+██████╔╝█████╗  ███████║██╔████╔██║
+██╔══██╗██╔══╝  ██╔══██║██║╚██╔╝██║
+██████╔╝███████╗██║  ██║██║ ╚═╝ ██║
+╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+
